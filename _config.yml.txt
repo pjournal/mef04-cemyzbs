@@ -1,4 +1,0 @@
-theme: jekyll-theme-cayman
-title: Cem Yüzbaşıoğlu 
-My Progress Journal
-description: BDA 503 
